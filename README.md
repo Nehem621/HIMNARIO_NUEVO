@@ -27,3 +27,22 @@ IV. Finalización
   Reiniciar ProPresenter: Para que el programa detecte la nueva biblioteca, cierra completamente ProPresenter y vuelve a abrirlo.
 
 Al reiniciar, el nuevo himnario aparecerá como una opción de biblioteca lista para usar.
+
+
+///----------------------------------------////
+🎨 Personalización y Configuración
+Una vez que el himnario ha sido cargado en ProPresenter, tienes control total sobre su presentación para adaptarlo a tus necesidades:
+
+Estilo Visual Completo: Puedes modificar a tu gusto la apariencia del texto y el diseño de la diapositiva.
+
+Tipografía: Cambia la fuente, el tamaño y el estilo del texto.
+
+Espaciado: Ajusta el espacio entre líneas (interlineado) y el espacio entre letras (espaciado de caracteres) para asegurar una lectura óptima en pantalla.
+
+Color y Sombra: Define el color del texto y agrega sombras o contornos para mejorar la visibilidad contra diferentes fondos.
+
+Integración de Medios (Fondo):
+
+Puedes agregar un loop de fondo (video o imagen en movimiento) desde tu biblioteca de Medios para que sirva como telón de fondo visual mientras se proyecta el himnario.
+
+Asegúrate de configurar este loop para que se ejecute en segundo plano y no interrumpa la visualización del texto.
