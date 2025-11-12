@@ -1,5 +1,6 @@
 💻 Guía de Instalación del Himnario en ProPresenter (Windows)
 Sigue estos pasos para añadir la biblioteca de himnos a ProPresenter:
+Clona el repositorio o descargalo en formato zip
 
 I. Preparación de los Archivos
   Descomprimir: Localiza el archivo ZIP o RAR y descomprime la carpeta HIMNARIO_NUEVO en tu escritorio o en una ubicación temporal de fácil acceso.
