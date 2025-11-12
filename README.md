@@ -11,7 +11,7 @@ II. Ubicación de la Biblioteca
 
   Nueva Biblioteca: Dentro de la carpeta Libraries, crea una nueva carpeta y nómbrala como desees, por ejemplo, HIMNARIO o Himnos.
 
-    Alternativamente, puedes crear la nueva biblioteca directamente desde la interfaz de ProPresenter, lo que generará automáticamente la carpeta en esta ubicación.
+  Alternativamente, puedes crear la nueva biblioteca directamente desde la interfaz de ProPresenter, lo que generará automáticamente la carpeta en esta ubicación.
 
 III. Copia de Archivos
   Transferir Contenido:
