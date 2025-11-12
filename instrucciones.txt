@@ -1,0 +1,9 @@
+PARA WINDOWS
+1.- Descomprime la carpeta HIMNARIO_NUEVO
+2.- Crea una carpeta con el nombre HIMNARIO(o la que gustes) en la siguiente ruta 
+   - C:\Users\nombreuser\Documents\ProPresenter\Libraries
+   - O desde ProPresenter crea una nueva biblioteca, eso creara una carpeta en la ruta anterior
+3.- Entra a la carpeta que se creo cuando se descomprimieron los archivos
+4.- Copia todos esos archivos dentro de la carpeta que creaste anteriormente 
+5.- Cierra el propresenter y vuelve a abrirlo
+
