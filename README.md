@@ -46,3 +46,5 @@ Integración de Medios (Fondo):
 Puedes agregar un loop de fondo (video o imagen en movimiento) desde tu biblioteca de Medios para que sirva como telón de fondo visual mientras se proyecta el himnario.
 
 Asegúrate de configurar este loop para que se ejecute en segundo plano y no interrumpa la visualización del texto.
+<img width="1908" height="848" alt="image" src="https://github.com/user-attachments/assets/f10075f6-224f-4438-af6a-99d6135c5b4f" />
+
